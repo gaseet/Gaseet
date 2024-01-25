@@ -1,11 +1,26 @@
-## 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&random=false&width=435&lines=Oi!+Me+chamo+Humberto!" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://github.com/gaseet">
+    <img src="https://github.com/gaseet/Gaseet/assets/45747276/1ad72ec8-9ae6-4edd-946b-00ce1e786e25" alt="Humberto Lima" /></a>
+</p>
 
-- Sou estudante de Ciência da Computação
-- Tenho interesse em back-end e desenvolvimento de jogos
-- Estou aprendendo C, Python e Java.
+
+
+## 
+
+
+<div>
+  <p align='center'>
+    <br>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=3000&color=00FFFF&center=true&random=false&width=700&height=70&lines=Sou+estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Tenho+interesse+em+back-end+e+desenvolvimento+de+jogos;Estou+aprendendo+C%2C+Python+e+Java." alt="Typing SVG" /></a>
+    <br>
+  </p>
+</div>
+
+
 
 ##
+
+
 
 <div>
   <p align='center'>
@@ -33,5 +48,8 @@
   </p>
  
 </div>
+
+
+
 
 ##
