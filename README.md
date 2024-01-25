@@ -3,6 +3,10 @@
 - Tenho interesse em back-end e desenvolvimento de jogos
 - Estou aprendendo C, Python e Java.
 
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=gaseet&show_icons=true&count_private=true&theme=dark&icon_color=00ffff&ring_color=00ffff" width="350"></a>
+</p>
+
 ##
 
 <a href="https://www.linkedin.com/in/humberto-mota-de-lima-488468266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
