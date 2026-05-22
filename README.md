@@ -11,13 +11,13 @@
 
 <div>
   <p align='center'>
-    <img src="https://github-readme-stats.shion.dev/api?username=gaseet&show_icons=true&count_private=true&include_all_commits=true&theme=dark&icon_color=00ffff&ring_color=00ffff&" ></a>
+    <img src="https://github-stats-extended.vercel.app/api?username=gaseet&show_icons=true&include_all_commits=true&theme=dark&icon_color=00ffff&ring_color=00ffff&" ></a>
   </p>
 </div>
 
 <div>
   <p align='center'>
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=gaseet&layout=compact&langs_count=7&theme=dark&icon_color=00ffff" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=gaseet&layout=compact&langs_count=4&theme=dark" />
   </p>
 </div>
 
