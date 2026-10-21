@@ -34,7 +34,14 @@ Bolsista CNPq em robótica e robótica subaquática no CREATE@CESAR. Já fui mon
 
 ### Ferramentas
 
-Figma · InDesign · React · TypeScript · Python · Arduino
+<p>
+  <img src="https://img.shields.io/badge/-101010?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" title="Figma" height="40" />
+  <img src="https://img.shields.io/badge/Id-101010?style=for-the-badge" alt="InDesign" title="InDesign" height="40" />
+  <img src="https://img.shields.io/badge/-101010?style=for-the-badge&logo=react&logoColor=white" alt="React" title="React" height="40" />
+  <img src="https://img.shields.io/badge/-101010?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" title="TypeScript" height="40" />
+  <img src="https://img.shields.io/badge/-101010?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python" height="40" />
+  <img src="https://img.shields.io/badge/-101010?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" title="Arduino" height="40" />
+</p>
 
 <br />
 
