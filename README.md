@@ -41,14 +41,3 @@ Bolsista CNPq em robótica e robótica subaquática no CREATE@CESAR. Já fui mon
   <img src="https://img.shields.io/badge/-101010?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python" height="40" />
   <img src="https://img.shields.io/badge/-101010?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" title="Arduino" height="40" />
 </p>
-
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=gaseet&show_icons=true&include_all_commits=true&hide_border=true&bg_color=101010&title_color=fafafa&text_color=a3a3a3&icon_color=fafafa&ring_color=fafafa" />
-  <img src="https://github-stats-extended.vercel.app/api?username=gaseet&show_icons=true&include_all_commits=true&hide_border=true&bg_color=f4f4f4&title_color=101010&text_color=525252&icon_color=101010&ring_color=101010" alt="Estatísticas do GitHub" height="170" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=gaseet&layout=compact&langs_count=4&hide_border=true&bg_color=101010&title_color=fafafa&text_color=a3a3a3" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=gaseet&layout=compact&langs_count=4&hide_border=true&bg_color=f4f4f4&title_color=101010&text_color=525252" alt="Linguagens mais usadas" height="170" />
-</picture>
