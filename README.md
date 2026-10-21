@@ -9,7 +9,7 @@
 
 Estudante de Design na CESAR School, com formação anterior em Ciência da Computação. Trabalho no encontro entre os dois: interfaces, identidade visual e protótipos que saem da tela, do Figma ao Arduino.
 
-Bolsista CNPq em robótica e robótica subaquática no CREATE@CESAR, monitor de Sistemas Digitais e parte do Núcleo de Design (NdD).
+Bolsista CNPq em robótica e robótica subaquática no CREATE@CESAR. Já fui monitor de Sistemas Digitais e ministrei oficinas de Figma pelo Núcleo de Design (NdD) da CESAR.
 
 <p>
   <a href="https://humbertolima.design"><img src="https://img.shields.io/badge/Portfólio-101010?style=for-the-badge" alt="Portfólio" /></a>
