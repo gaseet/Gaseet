@@ -21,52 +21,16 @@ Bolsista CNPq em robótica e robótica subaquática no CREATE@CESAR, monitor de 
 
 ### Projetos
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://humbertolima.design/projects/minha-marca"><img src="assets/projetos/minha-marca.webp" alt="Minha Marca" width="100%" /></a>
-      <br /><sub>IDENTIDADE VISUAL</sub><br />
-      <a href="https://humbertolima.design/projects/minha-marca"><b>Minha Marca</b></a><br />
-      Um hexágono tirado da quina de uma parede, com o H e o L encaixados em perspectiva.
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://humbertolima.design/projects/alce"><img src="assets/projetos/alce.webp" alt="AL.CE" width="100%" /></a>
-      <br /><sub>UI/UX</sub><br />
-      <a href="https://humbertolima.design/projects/alce"><b>AL.CE</b></a><br />
-      App de condomínio para o Edifício Alameda CESAR, do style guide ao protótipo de alta fidelidade.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://humbertolima.design/projects/minha-icon-family"><img src="assets/projetos/minha-icon-family.webp" alt="Minha Icon Family" width="100%" /></a>
-      <br /><sub>DESIGN DE ÍCONES</sub><br />
-      <a href="https://humbertolima.design/projects/minha-icon-family"><b>Minha Icon Family</b></a><br />
-      26 ícones derivados da marca, com a mesma gramática da logo HL.
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://humbertolima.design/projects/flux"><img src="assets/projetos/flux.webp" alt="FLUX" width="100%" /></a>
-      <br /><sub>UI/UX</sub><br />
-      <a href="https://humbertolima.design/projects/flux"><b>FLUX</b></a><br />
-      Dashboard para o SEBRAE/PE entender a experiência do cliente pelos sinais da navegação.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://humbertolima.design/projects/syndream"><img src="assets/projetos/syndream.webp" alt="SynDream" width="100%" /></a>
-      <br /><sub>DESIGN ESPECULATIVO</sub><br />
-      <a href="https://humbertolima.design/projects/syndream"><b>SynDream</b></a><br />
-      Kit para voltar à realidade depois de uma festa vivida em sonho, em 2089.
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://humbertolima.design/projects/violetas-de-elise"><img src="assets/projetos/violetas-de-elise.webp" alt="As Violetas de Elise" width="100%" /></a>
-      <br /><sub>DESIGN EDITORIAL</sub><br />
-      <a href="https://humbertolima.design/projects/violetas-de-elise"><b>As Violetas de Elise</b></a><br />
-      Livro de artista em forma de caixa de memórias, contado por cartas e objetos.
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://humbertolima.design/projects/minha-marca"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projetos/card-minha-marca-dark.svg" /><img src="assets/projetos/card-minha-marca-light.svg" alt="Minha Marca, identidade visual" width="49%" /></picture></a>
+  <a href="https://humbertolima.design/projects/alce"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projetos/card-alce-dark.svg" /><img src="assets/projetos/card-alce-light.svg" alt="AL.CE, UI/UX" width="49%" /></picture></a>
+</p>
 
-<p align="right"><a href="https://humbertolima.design/projects">Ver todos os projetos →</a></p>
+<p>
+  <a href="https://humbertolima.design/projects"><img src="https://img.shields.io/badge/Ver_todos_os_projetos_→-101010?style=for-the-badge" alt="Ver todos os projetos" /></a>
+</p>
+
+<br />
 
 ### Ferramentas
 
