@@ -40,4 +40,6 @@ Bolsista CNPq em robótica e robótica subaquática no CREATE@CESAR. Já fui mon
   <img src="https://img.shields.io/badge/-101010?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" title="TypeScript" height="40" />
   <img src="https://img.shields.io/badge/-101010?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python" height="40" />
   <img src="https://img.shields.io/badge/-101010?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" title="Arduino" height="40" />
+  <img src="https://img.shields.io/badge/-101010?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" title="ESP32" height="40" />
+  <img src="https://img.shields.io/badge/-101010?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" title="Raspberry Pi" height="40" />
 </p>
